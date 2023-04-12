@@ -1,0 +1,19 @@
+{
+  "name": "theorder",
+  "private": true,
+  "version": "1.0.230411",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "dependencies": {
+    "vue": "^3.2.40",
+    "vue-router": "^4.1.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.3",
+    "vite": "^3.0.9"
+  }
+}

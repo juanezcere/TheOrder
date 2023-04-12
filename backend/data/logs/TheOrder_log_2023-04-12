@@ -1,0 +1,8 @@
+werkzeug - WARNING - 2023-04-12 03:31:54,735 -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+werkzeug - INFO - 2023-04-12 03:31:54,736 -  * Running on http://192.168.1.5:3000/ (Press CTRL+C to quit)
+werkzeug - INFO - 2023-04-12 03:32:01,254 - 127.0.0.1 - - [12/Apr/2023 03:32:01] "OPTIONS /foods/ HTTP/1.1" 200 -
+werkzeug - INFO - 2023-04-12 03:32:01,261 - 127.0.0.1 - - [12/Apr/2023 03:32:01] "GET /foods/ HTTP/1.1" 200 -
+werkzeug - INFO - 2023-04-12 03:32:02,623 - 127.0.0.1 - - [12/Apr/2023 03:32:02] "OPTIONS /orders/ HTTP/1.1" 200 -
+werkzeug - INFO - 2023-04-12 03:32:02,630 - 127.0.0.1 - - [12/Apr/2023 03:32:02] "GET /orders/ HTTP/1.1" 200 -
+werkzeug - INFO - 2023-04-12 03:32:03,817 - 127.0.0.1 - - [12/Apr/2023 03:32:03] "GET /orders/ HTTP/1.1" 200 -
